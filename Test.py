@@ -1,3 +1,5 @@
+# Artur Rog
+
 import unittest
 from Diary import Diary
 from Student import Student
