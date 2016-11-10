@@ -1,4 +1,4 @@
-# Artur Rog
+# ArturRog
 
 import unittest
 from Diary import Diary
